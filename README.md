@@ -125,17 +125,6 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 
 ---
 
-### Currently Exploring
-
-```
-System Design   →  Scalability · Load Balancing · Microservices
-Docker          →  Containerization · Compose · Volumes
-TypeScript      →  Type Safety · Interfaces · Generics
-Redis           →  Caching · Session Management · Pub/Sub
-CI/CD           →  GitHub Actions · Automated Deployment
-```
-
----
 
 <div align="center">
 
