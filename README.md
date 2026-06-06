@@ -69,9 +69,9 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaiyalnath-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B8FC7&icon_color=8B8FC7&text_color=c9d1d9&border_radius=8"/>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=thaiyalnath-b&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B8FC7&icon_color=8B8FC7&text_color=c9d1d9&border_radius=8"/>
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiyalnath-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FC7&text_color=c9d1d9&langs_count=8&border_radius=8"/>
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=thaiyalnath-b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B8FC7&text_color=c9d1d9&langs_count=8&border_radius=8"/>
 </div>
 
 <div align="center">
@@ -122,6 +122,18 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 |--------|-------------|--------|-------|
 | B.Sc. Computer Science | Periyar University, Salem, Tamil Nadu | 2022 – 2025 | CGPA 7.4 / 10 |
 | Master in Full Stack Web Development (Python) | IT Vedant | — | Certified |
+
+---
+
+### Currently Exploring
+
+```
+System Design   →  Scalability · Load Balancing · Microservices
+Docker          →  Containerization · Compose · Volumes
+TypeScript      →  Type Safety · Interfaces · Generics
+Redis           →  Caching · Session Management · Pub/Sub
+CI/CD           →  GitHub Actions · Automated Deployment
+```
 
 ---
 
