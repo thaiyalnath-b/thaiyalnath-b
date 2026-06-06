@@ -49,6 +49,7 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 ![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=flat&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat&logo=django&logoColor=092E20&labelColor=white)
 ![JWT](https://img.shields.io/badge/JWT-1a1a2e?style=flat&logo=jsonwebtokens&logoColor=ffffff)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a2e?style=flat&logo=socketdotio&logoColor=ffffff)
 
 **Databases**
 &nbsp;
@@ -113,6 +114,7 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 |---------|-------|--------|
 | **[Draptor Business](https://github.com/thaiyalnath-b)** | MongoDB · Express.js · React.js · Node.js · JWT · Cloudinary · Firebase | Production real estate platform · 10+ features shipped · RBAC · Admin dashboard with 5+ modules |
 | **[E-Commerce Platform](https://github.com/thaiyalnath-b)** | Python · Django · Bootstrap · SQLite3 · Razorpay · Django ORM | 8+ end-to-end CRUD modules · Razorpay payment gateway · Automated email invoicing |
+| **[RealChat](https://github.com/thaiyalnath-b)** | MongoDB · Express.js · React.js · Node.js · WebSocket · Firebase · JWT | Real-time messaging app · Google OAuth login · Live online/offline presence · User sidebar with all registered users · Persistent chat history |
 
 ---
 
@@ -124,7 +126,6 @@ LinkedIn   linkedin.com/in/thaiyalnathb
 | Master in Full Stack Web Development (Python) | IT Vedant | — | Certified |
 
 ---
-
 
 <div align="center">
 
